@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="description" content="Справочник для сайтов">
+	<meta name="keywords" content="Справочник, css, html">
+	<meta name="autor" content="Yevhen">
+	<title>Spravochnik HTML/CSS</title>
+	<link rel="stylesheet" href="css/style.css">
+	<link rel="shortcut icon" href="img/favicon.ico">
+</head>
+<body>
+	<div class="wrapper">
+		<header class="header">
+			<a href="#"><img src="img/logo.png" alt="logo" class="logo"></a>
+		</header>
+		<main>
+			<div class="nav">
+				<h2>Меню</h2>
+				<ul>
+					<li class="active"><a href="index.html">Главная</a></li>
+					<li><a href="form.html">form</a></li>
+					<li><a href="font.html">margin</a></li>
+					<li><a href="font.html">padding</a></li>
+					<li><a href="font.html">float</a></li>
+					<li><a href="font.html">display</a></li>
+					<li><a href="font.html">position</a></li>
+					<li><a href="font.html">Псевдоселекторы</a></li>
+					<li><a href="table.html">table</a></li>
+					<li><a href="form.html">form</a></li>
+					<li><a href="menu.html">menu</a></li>
+					
+				</ul>
+			</div>
+			<div class="content">
+				<h1>Список сайтов</h1>
+					//Главный блок
+					<div class="block">
+						<a href="lesson2.html"><img src="img/st1.png" alt="st1"></a>
+						<a href="lesson2.html"><img src="img/st1.png" alt="st1"></a>
+						<a href="lesson2.html"><img src="img/st1.png" alt="st1"></a>
+						<a href="lesson2.html"><img src="img/st1.png" alt="st1"></a>
+						<a href="lesson2.html"><img src="img/st1.png" alt="st1"></a>
+						<a href="lesson2.html"><img src="img/st1.png" alt="st1"></a>
+						<p>
+							Lorem ipsum <a href="http://google.com">dolor</a> sit amet, consectetur adipisicing elit. Molestiae possimus quis nisi porro omnis, tenetur quibusdam perferendis voluptatem? Doloribus, harum eaque sunt numquam similique ipsum alias officia molestias, nisi consectetur adipisci, eligendi eveniet sequi, vel aliquam. Error, tenetur labore quae a fuga dolorem quam voluptate, enim voluptas, dolores accusantium perferendis!
+						</p>
+					</div>
+			</div>
+		</main>
+		<footer>
+			<div class="copy">
+				&copy; Справочник HTML, CSS, JS
+				
+			</div>
+		</footer>
+	</div>
+</body>
+</html>	
